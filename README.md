@@ -2,7 +2,7 @@ Well........ hello there
 
 I am Spondev0388 and I am new to gihub.com(its cool)
 
-I can code in some languages like python, C++, HTML, CSS.
+I can code in some languages like python, C++, HTML, CSS and Javascript(I am not good in javascript :/)
 
 I am still learning C++ and I will upload some new repositories here.I hope they will help you.
 
